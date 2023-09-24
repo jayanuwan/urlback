@@ -1,0 +1,22 @@
+{
+  "name": "apisys",
+  "version": "1.0.0",
+  "description": "api sys",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "type": "module",
+  "author": "Jayanuwan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http-status-codes": "^2.2.0",
+    "i": "^0.3.7",
+    "node-localstorage": "^3.0.5",
+    "npm": "^10.1.0"
+  }
+}
